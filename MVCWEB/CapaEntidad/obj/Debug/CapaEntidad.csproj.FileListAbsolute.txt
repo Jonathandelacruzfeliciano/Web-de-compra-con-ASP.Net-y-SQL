@@ -1,0 +1,6 @@
+C:\ProyectDesing\MVCWEB\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\ProyectDesing\MVCWEB\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\ProyectDesing\MVCWEB\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\ProyectDesing\MVCWEB\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\ProyectDesing\MVCWEB\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\ProyectDesing\MVCWEB\CapaEntidad\obj\Debug\CapaEntidad.pdb

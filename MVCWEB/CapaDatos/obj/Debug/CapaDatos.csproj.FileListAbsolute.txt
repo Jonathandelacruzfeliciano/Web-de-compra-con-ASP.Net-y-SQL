@@ -1,0 +1,9 @@
+C:\ProyectDesing\MVCWEB\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ProyectDesing\MVCWEB\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ProyectDesing\MVCWEB\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ProyectDesing\MVCWEB\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ProyectDesing\MVCWEB\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\ProyectDesing\MVCWEB\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ProyectDesing\MVCWEB\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\ProyectDesing\MVCWEB\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ProyectDesing\MVCWEB\CapaDatos\obj\Debug\CapaDatos.pdb

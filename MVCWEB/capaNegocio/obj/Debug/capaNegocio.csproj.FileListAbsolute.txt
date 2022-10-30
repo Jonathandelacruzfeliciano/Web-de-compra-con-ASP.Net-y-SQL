@@ -1,0 +1,11 @@
+C:\ProyectDesing\MVCWEB\capaNegocio\bin\Debug\capaNegocio.dll
+C:\ProyectDesing\MVCWEB\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\ProyectDesing\MVCWEB\capaNegocio\bin\Debug\CapaDatos.dll
+C:\ProyectDesing\MVCWEB\capaNegocio\bin\Debug\CapaEntidad.dll
+C:\ProyectDesing\MVCWEB\capaNegocio\bin\Debug\CapaDatos.pdb
+C:\ProyectDesing\MVCWEB\capaNegocio\bin\Debug\CapaEntidad.pdb
+C:\ProyectDesing\MVCWEB\capaNegocio\obj\Debug\capaNegocio.csprojAssemblyReference.cache
+C:\ProyectDesing\MVCWEB\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\ProyectDesing\MVCWEB\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\ProyectDesing\MVCWEB\capaNegocio\obj\Debug\capaNegocio.dll
+C:\ProyectDesing\MVCWEB\capaNegocio\obj\Debug\capaNegocio.pdb
